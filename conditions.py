@@ -33,6 +33,14 @@ coordinates = (10.0, 20.0)
 #This is a tuple and tuples are immutable i.e they can't be changed
 print(coordinates)
 
+#Now we will see sets
+
+#Sets are a collection of unique values
+
+#Now we will see dicitonary
+
+#Dictionaries are a collection of key-value pairs
+
 
 
 
