@@ -12,7 +12,7 @@ name = "Megan Fox"
 print(name[0])
 
 for i in name:
-    print(name)
+    print(i)
 
     
 #Now what are data structure
