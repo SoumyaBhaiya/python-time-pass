@@ -9,3 +9,7 @@ its_power = int(input("Enter it's power: "))
 
 calculation = power(num, its_power)
 print(calculation)
+
+#An important note. if we import the whole file then we will have to use
+# . notations. like functions.power(a, b) like this but we imported only
+# power function so it was no big deal
